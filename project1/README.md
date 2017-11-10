@@ -1,8 +1,8 @@
-#Pokemon Database
+# Pokemon Database
 <br><br>
 
-###You can get solutions to each problem in the specifications.
+### You can get solutions to each problem in the specifications.
 <br><br>
 
-###Thank you.
+### Thank you.
 
