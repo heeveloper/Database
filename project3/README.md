@@ -69,9 +69,9 @@ Improved performance!
 
 > ![graph](./image/buffer_performance.png)
 
-	<br>
-	<br>
+<br>
+<br>
 
-	---
+---
 
 
