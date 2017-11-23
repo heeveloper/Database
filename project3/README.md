@@ -67,7 +67,7 @@ As the number of buffers increases, you can see that the time required is reduce
 Improved performance!
 <br>
 
-> ![image](/uploads/8b6fc2bea284a96d3051a28cfca7dba5/image.png)
+> ![graph](./image/buffer_performance.png)
 
 	<br>
 	<br>
